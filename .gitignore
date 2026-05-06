@@ -1,0 +1,12 @@
+venv/
+.env
+data/chroma_db/
+uploads/
+logs/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+check_models.py
+test_parser.py
+quota_test.py
